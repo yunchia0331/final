@@ -91,12 +91,12 @@ while(1) {
 }
 ```
 
-* XBEE.py讀main的指令並print出
-> start\n
-> detectline\n
-> turn\n
-> gotoapril\n
-> stop\n
+* XBEE.py讀main的指令並print出，五個指令分別為:
+> start\n  
+> detectline\n  
+> turn\n  
+> gotoapril\n  
+> stop\n  
 ``` py
 import serial
 # XBee setting
